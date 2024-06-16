@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanva Bharadwaj</h1>
 <h3 align="center">A passionate student developer from India</h3>
-<img align="right" alt="Hello-there" src="[https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif](https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1NTEyMDksIm5iZiI6MTcxODU1MDkwOSwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE2VDE1MTUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhZDAyOTYyNjViNmM0ZjAzNmZhYjJkZDAzZWNiN2YzMDYxNDJjNDAzNTRkNWNiMjg1YmVlYTEzN2RiNjg3ZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.lKKTxo5IaMXzc2S-_uMrTDLcb6QY6QCQZ7THRcMqn_Y)">
+<img align="right" style="width: 400px" alt="Hello-there" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
 - 🌱 I’m currently learning **ReactJS and ML**
 
