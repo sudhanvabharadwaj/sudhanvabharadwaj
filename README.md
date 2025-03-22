@@ -3,13 +3,13 @@
 <h3 align="center">A passionate student developer from India</h3>
 <img align="right" style="width: 400px" alt="Hello-there" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
 
-- 🌱 I’m currently learning **Machine Learning and Data Analysis**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
-- 💬 Ask me about **NodeJS, ExpressJS, PostgreSQL and ReactJS**
+- 💬 Ask me about **Data Analytics and Machine Learning**
 
 - 📫 How to reach me **suddusb@gmail.com**
 
-- 📄 Know about my experiences [https://lime-loleta-94.tiiny.site](https://lime-loleta-94.tiiny.site)
+- 📄 Know about my experiences [https://lime-loleta-94.tiiny.site](https://copper-laurel-84.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
